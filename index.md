@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+  
+# MobileTVOS
+Open source project currently in Development. Do you want to convert your phone in a mini Smart TV? You are in the right place! You only need approximately 20 minutes, a Samsung Galaxy J5 2016(sm-j510fn) that must be rooted with TWRP. The project will be available for more devices early.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Installation
+1. Download MobileTV.zip
+2. Copy MobileTV.zip to your device.
+3. Wipe cache, data and dalvik partitions.
+4. Install the zip file.
+5. Reboot.
+6. Once it booted, select Android TV launcher APP.
+7. Select it as default launcher.
+8. Enjoy!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Rules
+Rule Number 1: DO NOT USE THIS CODE AND MAKE IT YOURS 
+Rule Number 2: Don't use this ROM in a not listed device. I'm not responsible of damages caused by the unresponsable use of this project.
+Credits
+Created by DavidTecnologico
 
-You can use the [editor on GitHub](https://github.com/DTDeveloper10/MobileTVOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Website: http://www.davidtecnologico.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact E-MAIL(Only click on it): mailto:mobiletvprojectsp@gmail.com
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DTDeveloper10/MobileTVOS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Enjoy!
