@@ -3,7 +3,7 @@
 Open source project currently in Development. Do you want to convert your phone in a mini Smart TV? You are in the right place! You only need approximately 20 minutes, a Samsung Galaxy J5 2016(sm-j510fn) that must be rooted with TWRP. The project will be available for more devices early.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Installation
-1. Download MobileTV.zip
+1. Download MobileTV.zip. To do it click on view on github, go to releases and download.
 2. Copy MobileTV.zip to your device.
 3. Wipe cache, data and dalvik partitions.
 4. Install the zip file.
